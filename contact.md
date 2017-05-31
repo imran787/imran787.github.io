@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
-
+blah blah contact
 
 This has been changed by me. ithdasdas
 You can find the source code for the Jekyll new theme at:
